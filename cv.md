@@ -1,7 +1,6 @@
 
 ## German Smurov
 
----
 
 #### Junior Frontend Developer
 
