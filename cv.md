@@ -8,11 +8,11 @@
 
 
 __Contact information__:
-__E-mail:__ smurovnemez@mail.ru
-__Telegram:__ @GermanSmurov
-[Linkedin](https://www.linkedin.com/in/badvoice-developer/)
-[Github](https://github.com/BadVoice)
-[My Path](https://smartprogress.do/goal/406821/)
+* __E-mail:__ smurovnemez@mail.ru
+* __Telegram:__ @GermanSmurov
+* [Linkedin](https://www.linkedin.com/in/badvoice-developer/)
+* [Github](https://github.com/BadVoice)
+* [My Path](https://smartprogress.do/goal/406821/)
 
 ---
 
