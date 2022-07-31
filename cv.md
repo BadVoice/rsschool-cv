@@ -1,11 +1,11 @@
 
 ## German Smurov
 
--—
+---
 
-##### Junior Frontend Developer
+#### Junior Frontend Developer
 
--—
+---
 
 
 __Contact information__:
@@ -15,7 +15,7 @@ __Telegram:__ @GermanSmurov
 [Github](https://github.com/BadVoice)
 [My Path](https://smartprogress.do/goal/406821/)
 
--—
+---
 
 #### Briefly About Myself:
 
@@ -27,7 +27,7 @@ During all this time I tried different languages like C# and tried to find mysel
 I believe, that my ability to learn and my found path will lead me through this of becoming a proficient Frontend Developer.
 
 
--—
+---
 
 #### Skills and Proficiency:
 * HTML5, CSS3, SASS
@@ -40,7 +40,7 @@ __My desired stack:__
 
 ``` JS, Framework Vue, CSS, SASS, HTML, Vite, Webpack, git ```
 
--—
+---
 
 ### Code example:
 
@@ -62,7 +62,7 @@ return '('
 }
 ```
 
--—
+---
 
 ### Courses:
 * Glo Academy Frontend Developer (completed)
@@ -74,7 +74,7 @@ return '('
 
 > I prefer to learn on my own and in practice
 
--—
+---
 
 ### Languages:
 * English A2 - Basic English
